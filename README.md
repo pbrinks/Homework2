@@ -5,3 +5,4 @@ and Murach's NewsReader app ([Android](https://www.murach.com/shop/murach-s-andr
 
 Fork this repo for [CS 262 lab 6](https://cs.calvin.edu/courses/cs/262/kvlinden/06hci/lab.html).
 # Lab06
+# Homework2
